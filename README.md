@@ -70,6 +70,10 @@ Directory notebooks contains few implementations of ML algorithm in Python with 
 
    Variational autoencoder - Wasserstein GAN, trained on MNIST dataset. Able to perform style transfer and generate realistic digit images. Uses penalizes hidden layer activation, according to [3].
 
+## Scripts
+
+Directory scripts replicated some of the notebooks in the form of scripts. This was done to make usage of the NNs easier for those who used to work with scripts instead of Jupyter notebooks.
+
 ## References
 
 [1] Hadsell, Raia, Sumit Chopra, and Yann LeCun. "Dimensionality reduction by learning an invariant mapping." 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06). Vol. 2. IEEE, 2006.
